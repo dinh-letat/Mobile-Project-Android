@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="40dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Login to your Account"
+            android:gravity="center"
+            android:padding="5dp"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            />
+
+        <EditText
+            android:id="@+id/edit_textEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email"
+            android:padding="15dp"
+            android:layout_marginTop="30dp"
+            android:background="@null"
+            android:shadowDy="@integer/material_motion_duration_long_2"
+            />
+        <EditText
+            android:id="@+id/edit_textPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Password"
+            android:padding="15dp"
+            android:layout_marginTop="30dp"
+            android:background="@null"
+            />
+        <Button
+            android:id="@+id/btn_signin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sign in"
+            android:layout_marginTop="30dp"
+            android:background="#12486B"/>
+    </LinearLayout>
+</RelativeLayout>

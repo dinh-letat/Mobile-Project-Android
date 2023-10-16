@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tuan2.3_Bai2</string>
+    <string-array name="products_array">
+        <item>Samsung</item>
+        <item>Iphone</item>
+        <item>Xiaomi</item>
+    </string-array>
+</resources>
