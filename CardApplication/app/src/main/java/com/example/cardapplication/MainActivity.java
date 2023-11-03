@@ -20,11 +20,10 @@ public class MainActivity extends AppCompatActivity {
             R.drawable.dq, R.drawable.dk, R.drawable.h1, R.drawable.h2,
             R.drawable.h3, R.drawable.h4, R.drawable.h5, R.drawable.h6,
             R.drawable.h7, R.drawable.h8, R.drawable.h9, R.drawable.h10,
-            R.drawable.hj, R.drawable.hq, R.drawable.hk,
-            R.drawable.s1, R.drawable.s2, R.drawable.s3, R.drawable.s4,
-            R.drawable.s5, R.drawable.s6, R.drawable.s7, R.drawable.s8,
-            R.drawable.s9, R.drawable.s10, R.drawable.sj, R.drawable.sq,
-            R.drawable.sk
+            R.drawable.hj, R.drawable.hq, R.drawable.hk, R.drawable.s1,
+            R.drawable.s2, R.drawable.s3, R.drawable.s4, R.drawable.s5,
+            R.drawable.s6, R.drawable.s7, R.drawable.s8, R.drawable.s9,
+            R.drawable.s10, R.drawable.sj, R.drawable.sq, R.drawable.sk
 
     };
     @Override

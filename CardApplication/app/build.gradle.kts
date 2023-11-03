@@ -3,8 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.cardapplication"
-    compileSdk = 33
+    namespace = "com.exa
 
     defaultConfig {
         applicationId = "com.example.cardapplication"

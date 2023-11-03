@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="departments_array">
+        <item>Phòng kế toán</item>
+        <item>Phòng tiếp thị</item>
+        <item>Phòng quan hệ doanh nghiệp</item>
+        <item>Phòng kỹ thuật</item>
+        <item>Bộ phận quản trị mạng</item>
+        <item>Trung tâm phần mềm</item>
+    </string-array>
+</resources>
